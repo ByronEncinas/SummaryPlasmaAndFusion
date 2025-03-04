@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.11.20)  4 MAR 2025 14:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.11.20)  4 MAR 2025 14:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -771,36 +771,19 @@ your preamble.
 
 SVJour3 warning: Missing \journalname
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5]
+<images/BindingEnergyOfElements.png, id=34, 432.4155pt x 296.90926pt>
+File: images/BindingEnergyOfElements.png Graphic file (type png)
+<use images/BindingEnergyOfElements.png>
+Package pdftex.def Info: images/BindingEnergyOfElements.png  used on input line
+ 228.
+(pdftex.def)             Requested size: 270.40103pt x 185.6675pt.
+<images/DeuteronCrossSection.png, id=36, 479.391pt x 301.72725pt>
+File: images/DeuteronCrossSection.png Graphic file (type png)
+<use images/DeuteronCrossSection.png>
+Package pdftex.def Info: images/DeuteronCrossSection.png  used on input line 24
+3.
+(pdftex.def)             Requested size: 270.40103pt x 170.19075pt.
 
-LaTeX Warning: File `images/BindingEnergyOfElements.png' not found on input lin
-e 228.
-
-
-! Package pdftex.def Error: File `images/BindingEnergyOfElements.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.228 ...idth]{images/BindingEnergyOfElements.png}
-                                                  
-? 
-
-LaTeX Warning: File `images/DeuteronCrossSection.png' not found on input line 2
-43.
-
-
-! Package pdftex.def Error: File `images/DeuteronCrossSection.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.243 ...newidth]{images/DeuteronCrossSection.png}
-                                                  
-? 
 ! Undefined control sequence.
 <argument> ...es Deuteron cross section with $\ce 
                                                   {D}_1^2$, $\ce {T}_1^3$ an...
@@ -855,7 +838,7 @@ l.244 ...{D}_1^2$, $\ce{T}_1^3$ and $\ce{He}_2^3$}
 l.244 ...{D}_1^2$, $\ce{T}_1^3$ and $\ce{He}_2^3$}
                                                   
 ? 
-[6]
+[6 <./images/BindingEnergyOfElements.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 256--259
 
  []
@@ -865,68 +848,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 260--261
 
  []
 
-[7] [8]
+[7 <./images/DeuteronCrossSection.png>] [8]
+<images/TripleProductCriterion.png, id=51, 572.73975pt x 408.3255pt>
+File: images/TripleProductCriterion.png Graphic file (type png)
+<use images/TripleProductCriterion.png>
+Package pdftex.def Info: images/TripleProductCriterion.png  used on input line 
+352.
+(pdftex.def)             Requested size: 270.40103pt x 192.77905pt.
 
-LaTeX Warning: File `images/TripleProductCriterion.png' not found on input line
- 352.
+Underfull \vbox (badness 4048) has occurred while \output is active []
 
+ [9]
+[10 <./images/TripleProductCriterion.png>] [11]
+<images/ToroidalMagneticFieldCoils.png, id=62, 239.6955pt x 293.29575pt>
+File: images/ToroidalMagneticFieldCoils.png Graphic file (type png)
+<use images/ToroidalMagneticFieldCoils.png>
+Package pdftex.def Info: images/ToroidalMagneticFieldCoils.png  used on input l
+ine 440.
+(pdftex.def)             Requested size: 169.0pt x 206.79588pt.
 
-! Package pdftex.def Error: File `images/TripleProductCriterion.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.352 ...width]{images/TripleProductCriterion.png}
-                                                  
-? 
-[9] [10] [11]
-
-LaTeX Warning: File `images/ToroidalMagneticFieldCoils.png' not found on input 
-line 440.
-
-
-! Package pdftex.def Error: File `images/ToroidalMagneticFieldCoils.png' not fo
-und: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.440 ...h]{images/ToroidalMagneticFieldCoils.png}
-                                                  
-? 
-
-Underfull \vbox (badness 2409) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
+<images/TokamaksSchematic.png, id=66, 466.74374pt x 367.97475pt>
+File: images/TokamaksSchematic.png Graphic file (type png)
+<use images/TokamaksSchematic.png>
+Package pdftex.def Info: images/TokamaksSchematic.png  used on input line 447.
+(pdftex.def)             Requested size: 169.0pt x 133.23442pt.
 
-LaTeX Warning: File `images/TokamaksSchematic.png' not found on input line 447.
-
-
-
-! Package pdftex.def Error: File `images/TokamaksSchematic.png' not found: usin
-g draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.447 ...\linewidth]{images/TokamaksSchematic.png}
-                                                  
-? 
-[13] [14] [15] (./PPCF.aux)
+[13 <./images/ToroidalMagneticFieldCoils.png> <./images/TokamaksSchematic.png>]
+[14] [15] (./PPCF.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 24965 strings out of 478051
- 645387 string characters out of 5840942
- 1865330 words of memory out of 5000000
- 44684 multiletter control sequences out of 15000+600000
- 519863 words of font info for 58 fonts, out of 8000000 for 9000
+ 24825 strings out of 478051
+ 639918 string characters out of 5840942
+ 1866330 words of memory out of 5000000
+ 44563 multiletter control sequences out of 15000+600000
+ 519695 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  103i,11n,105p,922b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></u
@@ -943,12 +904,11 @@ mr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on PPCF.pdf (15 pages, 241940 bytes).
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on PPCF.pdf (15 pages, 1470397 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 89 compressed objects within 1 object stream
+ 147 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
